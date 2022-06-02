@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "name": "Shrimp curry",
+        "price": 15,
+        "description":"Authentic Indian shrimp curry",
+        "image_url":"https://ipfs.io/ipfs/QmUgtGCfnsVrjCqDsoovJ14nK9QLEeFqBaxMx7jnmQKwwe?filename=shrimp_curry.jpg",
+        "filename":"shrimp_curry.jpg",
+        "hash":"QmUgtGCfnsVrjCqDsoovJ14nK9QLEeFqBaxMx7jnmQKwwe"
+    }
+]
