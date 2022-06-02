@@ -54,7 +54,6 @@ const createTransaction = async (req, res) => {
     // The first two things we need - a recent block ID 
     // and the public key of the fee payer 
     const tx = new Transaction({
-      blockhash:blockhash,
       recentBlockhash: blockhash,
       feePayer: buyerPublicKey,
     });

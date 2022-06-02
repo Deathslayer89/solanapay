@@ -4,7 +4,7 @@ import { useConnection, useWallet } from "@solana/wallet-adapter-react";
 import { InfinitySpin } from "react-loader-spinner";
 import IPFSDownload from "./IpfsDownload";
 
-export default function Buy({ itemID }) {
+export default function Buy({ itemId}) {
   const { connection } = useConnection();
   const { publicKey, sendTransaction } = useWallet();
   const orderID = useMemo(() => Keypair.generate().publicKey, []); // Public key used to identify the order
@@ -17,9 +17,9 @@ export default function Buy({ itemID }) {
     () => ({
       buyer: publicKey.toString(),
       orderID: orderID.toString(),
-      itemID: itemID,
+      itemId: itemId,
     }),
-    [publicKey, orderID, itemID]
+    [publicKey, orderID, itemId]
   );
 
   // Fetch the transaction object from the server 
