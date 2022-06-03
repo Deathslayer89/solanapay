@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Shrimp curry",
-    "price": "0.5",
+    "price": "8",
     "description": "Authentic Indian shrimp curry",
     "image_url": "https://i.imgur.com/RYR694F.jpeg",
     "filename": "shrimp_curry.jpg",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Biriyani",
-    "price": "1",
+    "price": "10",
     "image_url": "https://i.imgur.com/BBW3nAa.jpeg",
     "description": "Authentic Tamil style chicken Biriyani",
     "filename": "Biriyani.jpeg",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "pizza",
-    "price": "0.6",
+    "price": "6",
     "image_url": "https://i.imgur.com/2zFUWQL.jpeg",
     "description": "small size Italian pizza",
     "filename": "pizza.jpeg",
