@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { create } from "ipfs-http-client";
 import styles from "../styles/CreateProduct.module.css";
 
-const client = create("https://ipfs.infura.io:5001/api/v0");
+const client = create("https://cloudflare-ipfs.com:5001/api/v0");
 
 const CreateProduct = () => {
 
