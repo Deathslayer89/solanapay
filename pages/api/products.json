@@ -1,11 +1,29 @@
 [
-    {
-        "id":1,
-        "name": "Shrimp curry",
-        "price": 15,
-        "description":"Authentic Indian shrimp curry",
-        "image_url":"https://ipfs.io/ipfs/QmUgtGCfnsVrjCqDsoovJ14nK9QLEeFqBaxMx7jnmQKwwe?filename=shrimp_curry.jpg",
-        "filename":"shrimp_curry.jpg",
-        "hash":"QmUgtGCfnsVrjCqDsoovJ14nK9QLEeFqBaxMx7jnmQKwwe"
-    }
+  {
+    "id": 1,
+    "name": "Shrimp curry",
+    "price": "8",
+    "description": "Authentic Indian shrimp curry",
+    "image_url": "https://i.imgur.com/RYR694F.jpeg",
+    "filename": "shrimp_curry.jpg",
+    "hash": "QmUgtGCfnsVrjCqDsoovJ14nK9QLEeFqBaxMx7jnmQKwwe"
+  },
+  {
+    "id": 2,
+    "name": "Biriyani",
+    "price": "10",
+    "image_url": "https://i.imgur.com/BBW3nAa.jpeg",
+    "description": "Authentic Tamil style chicken Biriyani",
+    "filename": "Biriyani.jpeg",
+    "hash": "QmTCdyd1Xmayxemh2te7occhE7izE73oUU3PDpAhCZq8Fo"
+  },
+  {
+    "id": 3,
+    "name": "pizza",
+    "price": "6",
+    "image_url": "https://i.imgur.com/2zFUWQL.jpeg",
+    "description": "small size Italian pizza",
+    "filename": "pizza.jpeg",
+    "hash": "QmeDJe2v3E4kY1Jj9Ryr6JaAy8WEApnY7iw6ayFqRfYutj"
+  }
 ]
