@@ -1,6 +1,6 @@
 import React, { useState, useEffect} from "react";
-import CreateProduct from "../components/CreateProduct";
-import Product from "../components/Products";
+import CreateProduct from "../components/createProduct";
+import Product from "../components/products";
 import HeadComponent from '../components/Head';
 
 import { useWallet } from "@solana/wallet-adapter-react";
